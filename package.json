@@ -1,0 +1,26 @@
+{
+  "name": "lotterysmartcontract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reemardelarosa/LotterySmartContract.git"
+  },
+  "author": "John Reemar Dela Rosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reemardelarosa/LotterySmartContract/issues"
+  },
+  "homepage": "https://github.com/reemardelarosa/LotterySmartContract#readme",
+  "dependencies": {
+    "ganache-cli": "^6.0.3",
+    "mocha": "^5.0.1",
+    "solc": "^0.4.20",
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "^1.0.0-beta2"
+  }
+}

@@ -1,0 +1,6 @@
+#Dependency Directory
+node_modules/
+
+.project
+.setting
+.npm
